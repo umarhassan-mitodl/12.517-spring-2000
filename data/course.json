@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2000",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Ecology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geobiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biostatistics"
+    ]
+  ],
+  "legacy_uid": "d7152b1c-12d6-2054-a0d1-5f610316a275",
+  "instructors": {
+    "content": [
+      "728ffe86-d083-ff18-71ad-71d94ca80371"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "94dcd1f9-faeb-db5a-5ea0-7aeb5fcce17f",
+    "website": "12-517-dynamics-of-complex-systems-complexity-in-ecology-spring-2000"
+  },
+  "course_title": "Dynamics of Complex Systems: Complexity in Ecology",
+  "course_description": "In this class we will critically review both classical works and recent literature on complexity in ecology. The emphasis will be on developing quantitative theories in the context of experimental and observational data. We will meet twice weekly for roundtable discussions.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.517",
+  "course_image_thumbnail": {
+    "content": "fbb64cfd-4866-51ec-669c-2b9bb5daf892",
+    "website": "12-517-dynamics-of-complex-systems-complexity-in-ecology-spring-2000"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments"
+  ],
+  "site_uid": "c5bb2554-a118-45a8-a582-c45770fbf2b0",
+  "site_short_id": "12.517-spring-2000",
+  "site_url_path": "courses/12-517-dynamics-of-complex-systems-complexity-in-ecology-spring-2000",
+  "title": "Course Metadata"
+}
